@@ -1,0 +1,8 @@
+platform :ios, '10.0'
+target 'rongcloud' do
+
+    pod 'IQKeyboardManager'
+    pod 'RongCloudIM/IMKit', '~> 4.0.3.3'
+    pod 'RongCloudIM/IMLib', '~> 4.0.3.3'
+
+end

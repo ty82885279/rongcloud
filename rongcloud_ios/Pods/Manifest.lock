@@ -1,0 +1,23 @@
+PODS:
+  - IQKeyboardManager (6.5.5)
+  - RongCloudIM/IMKit (4.0.3.6):
+    - RongCloudIM/IMLib
+  - RongCloudIM/IMLib (4.0.3.6)
+
+DEPENDENCIES:
+  - IQKeyboardManager
+  - RongCloudIM/IMKit (~> 4.0.3.3)
+  - RongCloudIM/IMLib (~> 4.0.3.3)
+
+SPEC REPOS:
+  trunk:
+    - IQKeyboardManager
+    - RongCloudIM
+
+SPEC CHECKSUMS:
+  IQKeyboardManager: 3a8b9e603f8b0eeaf5f096a1f2b2cfcf121992ef
+  RongCloudIM: d85dad36634ce912044c2a9260935d490d5dc22b
+
+PODFILE CHECKSUM: f58110cbcf919f13e19f36672bf2be7392fc9f83
+
+COCOAPODS: 1.8.4
